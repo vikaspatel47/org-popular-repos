@@ -5,8 +5,9 @@ Most popular repositories of a given organization on Github based on the number 
 1. Open the project in any IDE.
 2. Right click on `lib/json-simple-1.1.jar` & select `Add as library` option.
 3. Right click on `src` & select option `Mark directory as` -> `Source root` 
-4. Set the configuration for project compiler output (File -> Project Structure -> Project Setting -> Project -> Project compiler output) 5. Configure project SDK (File -> Project Structure -> Project Setting -> Project -> Project SDK)
-6. Add application configuration (Choose `client.Client` as Main class
+4. Set the configuration for project compiler output (`File -> Project Structure -> Project Setting -> Project -> Project compiler output`)
+5. Configure project SDK (`File -> Project Structure -> Project Setting -> Project -> Project SDK`)
+6. Add application configuration (Choose `client.Client` as `Main class`)
 7. Build the application & run it
 
 # Input format
