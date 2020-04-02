@@ -14,12 +14,19 @@ org-name repo-count committees-count
 ex: google 2 3
 
 # Output format
-The application prints list of m repos with n committees (m = repo-count, n = committees-count)
+The application prints list of m repos with n committees (m = repo-count, n = committees-count).
+
 ex:for input = google 2 3
------------------------------ 
+```
 styleguide: 8680 
-List of committees:      eglaysher: 25     IsaacG: 25     tonyruscoe: 18
+List of committees:
+  eglaysher: 25     
+  IsaacG: 25     
+  tonyruscoe: 18
 ----------------------------- 
 guava: 8227 
-List of committees:      cpovirk: 1387     kluever: 557     cgdecker: 493
-
+List of committees:      
+  cpovirk: 1387     
+  kluever: 557     
+  cgdecker: 493
+```
